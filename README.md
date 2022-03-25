@@ -31,7 +31,7 @@ Once `pip` has finished downloading the dependencies:
 
 Now create a super user by command
 ```
-python manage.py createsuperuser. Enter your desired username and press enter.
+python manage.py createsuperuser. Enter your desired username and password press enter.
 ```
 
 And navigate to `http://127.0.0.1:8000/admin/login/`.
